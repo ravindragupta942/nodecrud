@@ -1,0 +1,19 @@
+{
+  "name": "ravindra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "git": "^0.1.5",
+    "jsonwebtoken": "^8.1.0",
+    "mongoose": "^4.13.7"
+  }
+}
